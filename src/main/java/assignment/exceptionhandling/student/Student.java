@@ -1,3 +1,4 @@
+package assignment.exceptionhandling.student;
 import java.util.Scanner;
 import java.util.logging.Logger;
 public class Student 

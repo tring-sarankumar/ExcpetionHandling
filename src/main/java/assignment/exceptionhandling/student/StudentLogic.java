@@ -1,3 +1,4 @@
+package assignment.exceptionhandling.student;
 public class StudentLogic {
     String name;
     char grade;

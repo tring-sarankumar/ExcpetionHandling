@@ -1,3 +1,4 @@
+package assignment.exceptionhandling.shape;
 import java.util.Scanner;
 import java.util.logging.Logger;
 public class Shape {

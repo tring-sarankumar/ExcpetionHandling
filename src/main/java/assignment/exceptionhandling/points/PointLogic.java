@@ -1,3 +1,4 @@
+package assignment.exceptionhandling.points;
 import java.util.logging.Logger;
 
 public class PointLogic implements cloneable{

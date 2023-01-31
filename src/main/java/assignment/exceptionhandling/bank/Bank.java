@@ -1,4 +1,4 @@
-package assignment.exceptionhandling.Bank;
+package assignment.exceptionhandling.bank;
 import java.util.Scanner;
 import java.util.logging.Logger;
 

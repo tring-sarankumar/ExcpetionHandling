@@ -1,3 +1,4 @@
+package assignment.exceptionhandling.points;
 import java.util.Scanner;
 import java.util.logging.Logger;
 public class Points 

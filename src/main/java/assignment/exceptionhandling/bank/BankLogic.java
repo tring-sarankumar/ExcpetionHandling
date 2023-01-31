@@ -1,3 +1,4 @@
+package assignment.exceptionhandling.bank;
 import java.util.logging.Logger;
 
 public class BankLogic {
